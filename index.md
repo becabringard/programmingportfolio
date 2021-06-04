@@ -1,4 +1,5 @@
 # Beca Bringard Programming Portfolio 2021
+Beca Bringard [Email](mailto:becabrin9598@granitesd.org)
 
 ## Processing Projects
 
